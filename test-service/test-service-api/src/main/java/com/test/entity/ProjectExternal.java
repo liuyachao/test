@@ -11,7 +11,7 @@ import lombok.Data;
 public class ProjectExternal {
 
     /**
-     * 主键 11 22
+     * 主键
      */
     private Long id;
 
