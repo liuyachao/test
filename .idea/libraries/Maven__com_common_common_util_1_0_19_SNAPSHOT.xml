@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.common:common-util:1.0.19-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/common/common-util/1.0.19-SNAPSHOT/common-util-1.0.19-20180803.063514-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/common/common-util/1.0.19-SNAPSHOT/common-util-1.0.19-20180803.063514-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/common/common-util/1.0.19-SNAPSHOT/common-util-1.0.19-20180803.063514-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

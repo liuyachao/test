@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.maket:maket-api:1.1.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/maket/maket-api/1.1.1-SNAPSHOT/maket-api-1.1.1-20180103.055401-7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/maket/maket-api/1.1.1-SNAPSHOT/maket-api-1.1.1-20180103.055401-7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/maket/maket-api/1.1.1-SNAPSHOT/maket-api-1.1.1-20180103.055401-7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

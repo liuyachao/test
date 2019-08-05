@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+	   xsi:schemaLocation="http://www.springframework.org/schema/beans
+						http://www.springframework.org/schema/beans/spring-beans.xsd
+						 http://code.alibabatech.com/schema/dubbo
+						  http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+
+
+
+	<!-- 使用zookeeper注册中心暴露服务地址 即zookeeper的所在服务器ip地址和端口号 -->
+	<dubbo:registry protocol="zookeeper" address="${dubbo.registry.address}" check="false" />
+	<!--hr系统-->
+	<!--<dubbo:reference id="empService" interface="com.user.service.emp.EmpService" version="1.0.0" timeout="10000" retries="0" url="172.16.163.70:20998"/>-->
+</beans>
