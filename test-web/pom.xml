@@ -22,7 +22,7 @@
         <mybatis.version>3.3.0</mybatis.version>
         <mybatis-spring.version>1.2.3</mybatis-spring.version>
         <jackson.version>2.6.3</jackson.version>
-        <commonsio.version>2.4</commonsio.version>
+        <commonsio.version>2.7</commonsio.version>
         <json.version>2.4</json.version>
         <slf4j.version>1.7.13</slf4j.version>
         <springfox.swagger.version>2.6.0</springfox.swagger.version>
