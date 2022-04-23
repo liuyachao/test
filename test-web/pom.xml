@@ -16,7 +16,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring.version>4.2.2.RELEASE</spring.version>
+        <spring.version>5.3.19</spring.version>
         <spring-webmvc.version>4.2.2.RELEASE</spring-webmvc.version>
         <mysql.version>5.1.37</mysql.version>
         <mybatis.version>3.3.0</mybatis.version>
